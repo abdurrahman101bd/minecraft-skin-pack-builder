@@ -36,7 +36,7 @@
 
 **Create Minecraft Bedrock `.mcpack` skin packs directly in your browser — no software needed.**
 
-[🚀 Live Demo](https://abdurrahman101bd.github.io/minecraft-skin-pack-builder) · [📦 Download](#) · [🐛 Report Bug](https://github.com/abdurrahman101bd/minecraft-skin-pack-builder/issues)
+[🚀 Live Demo](https://abdurrahman101bd.github.io/minecraft-skin-pack-builder) · [📦 Download](https://github.com/abdurrahman101bd/minecraft-skin-pack-builder/blob/main/index.html) · [🐛 Report Bug](https://github.com/abdurrahman101bd/minecraft-skin-pack-builder/issues)
 
 </div>
 
